@@ -11,7 +11,7 @@ This example models a simple new article (Article.class) as inserts it into a lo
 ## find.author.query ##
 This example executes a simple find query to find Articles buy author
 
-##f find.author.repo ##
+## find.author.repo ##
 This example uses the Spring Data repository support to find Articles buy author
 
 ## push.comment ##
